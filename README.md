@@ -1,9 +1,14 @@
 # 💫About Me :
 💻 I am a programmer
+
 ⌨ I am a .net developer
+
 🌐 I am a backend developer
+
 🐞 I am the CEO of Bugland
+
 📖 I like reading books
+
 
 🌌 𝙏ʜɪɴᴋ ʙɪɢ, ʙᴇʟɪᴇᴠᴇ ʙɪɢ, ᴀᴄᴛ ʙɪɢ, ᴀɴᴅ ᴛʜᴇ ʀᴇ𝙨ᴜʟᴛ𝙨 ᴡɪʟʟ ʙᴇ ʙɪɢ..
 
