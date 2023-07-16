@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 I am a programmer<br><br>⌨ I am a .net developer<br><br>🌐 I am a backend developer<br><br>🐞 I am the CEO of Bugland<br><br>📖 I like reading books<br><br>🌌 𝙏ʜɪɴᴋ ʙɪɢ, ʙᴇʟɪᴇᴠᴇ ʙɪɢ, ᴀᴄᴛ ʙɪɢ, ᴀɴᴅ ᴛʜᴇ ʀᴇ𝙨ᴜʟᴛ𝙨 ᴡɪʟʟ ʙᴇ ʙɪɢ..</p>
+<p align="left">💻 I am a programmer<br><br>⌨ I am a .net developer<br><br>🌐 I am a backend developer<br><br>👨‍💻 I am the CEO of Arinam<br><br>📖 I like reading books<br><br>🌌 𝙏ʜɪɴᴋ ʙɪɢ, ʙᴇʟɪᴇᴠᴇ ʙɪɢ, ᴀᴄᴛ ʙɪɢ, ᴀɴᴅ ᴛʜᴇ ʀᴇ𝙨ᴜʟᴛ𝙨 ᴡɪʟʟ ʙᴇ ʙɪɢ..</p>
 
 ###
 
